@@ -42,7 +42,7 @@ class Map {
 
         window.pannellum.viewer('panorama', {
             "type": "equirectangular",
-            "panorama": "/src/pano_aerodrome.png",
+            "panorama": "src/pano_aerodrome.png",
             "autoLoad": true
         });
     }
