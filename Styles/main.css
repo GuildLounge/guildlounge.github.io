@@ -11,7 +11,7 @@ body {
     margin: 0px;
     height: 100%;   
     width: 100%;
-    font-family:cronospro;
+    font-family:LemonMilk;
 }
 
 .content {
@@ -19,7 +19,7 @@ body {
     width: 1280px;
     position: relative;
     font-size: 20px;
-    font-family: CronosPro;
+    font-family: LemonMilk;
     top: 230px;
     margin-left:auto;
     margin-right:auto;
@@ -29,6 +29,6 @@ body {
 
 @font-face
 {
-    font-family:cronospro;
-    src:url('../Graphics/Fonts/CronosPro.ttf');
+    font-family:LemonMilk;
+    src:url('../Graphics/Fonts/LEMONMILK-Regular.otf');
 }
